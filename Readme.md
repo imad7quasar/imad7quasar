@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imad7quasar" alt="imad7quasar" /></a> </p>
 
-- 🔭 I’m currently working on **RSHOT** , **Maper** , **ML model to detec planet positions**
+- 🔭 I’m currently working on **RSHOT** , **Maper** , **ML model to detect planet positions**
 
 - 🌱 I’m currently learning **Java,Dart**
 
