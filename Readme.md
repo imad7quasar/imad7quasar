@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Maachou Mohammed Imad Eddine</h1>
+<h1 align="center">Hello , I'm Maachou Mohammed Imad Eddine</h1>
 <h3 align="center">A Guy who is passionate about Space industry mixed with Artificial Intelligence, Cyber sec and Game dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imad7quasar&label=Profile%20views&color=0e75b6&style=flat" alt="imad7quasar" /> </p>
