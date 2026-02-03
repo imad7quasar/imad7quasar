@@ -26,13 +26,5 @@ while also building scalable AI systems, intelligent applications, and ML-powere
   <li>📫 Contact: <strong>maachouimad1@gmail.com</strong></li>
 </ul>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
 
-</p>
-
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <!-- keep your icons block as-is -->
-</p>
 
